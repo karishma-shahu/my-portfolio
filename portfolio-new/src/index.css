@@ -1,0 +1,17 @@
+/* Section heading white */
+section h2 {
+  color: white;
+  font-size: 45px;
+  margin: 15px 0;
+}
+
+/* Sections ka extra gap kam */
+section {
+  min-height: auto;
+  padding: 70px 8%;
+}
+
+/* Home ko thoda bada rakho */
+#home {
+  min-height: 85vh;
+}
